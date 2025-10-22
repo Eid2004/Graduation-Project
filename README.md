@@ -37,3 +37,7 @@ This step is essential for frontend.
 ```bash
 npm install
 ```
+## To Run Project 
+```bash
+php artisan serve
+```
