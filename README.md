@@ -29,3 +29,11 @@ This step is essential for securing Laravel sessions.
 ```bash
 php artisan key:generate
 ```
+
+### 5. npm install
+
+This step is essential for frontend.
+
+```bash
+npm install
+```
